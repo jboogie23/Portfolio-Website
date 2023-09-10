@@ -8,14 +8,14 @@ var email = 'mailto:ross.h.sanderson@gmail.com';
 
 whois = [
   "<br>",
-  "Hey, I'm Ross!ðŸ‘‹",
+  "Hey, I'm Ross!",
   "I'm going to fill this out later",
   "<br>"
 ];
 
 whoami = [
   "<br>",
-  "The paradox of â€œWho am I?â€ is: we never know, but, we constantly find out.",
+  "The paradox of 'Who am I? is: we never know, but, we constantly find out.",
   "<br>"
 ];
 
@@ -58,7 +58,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">ForrestKnight (FK) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">Ross Henry (RH) Not A Corporation. All knights reserved.</span>',
   "         ___   ____",
   "       /' --;^/ ,-_\\     \\ | /       ",
   "      / / --o\\ o-\\ \\\\   --(_)--   ACSCI goes here",
