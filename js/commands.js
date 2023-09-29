@@ -1,6 +1,6 @@
 var youtube = "https://www.youtube.com/";
 var twitter = "https://www.twitter.com/";
-var password = "rossh";
+var password = "password";
 var linkedin = "https://www.linkedin.com/";
 var instagram = "https://www.instagram.com/";
 var github = "https://github.com/";
@@ -37,7 +37,7 @@ secret = [
 
 projects = [
   "<br>",
-  "Still curating... most projects are offline, on GitHub, or confidential.",
+  "Still curating... i don't know what im even doing.",
   "<br>"
 ];
 
@@ -58,7 +58,7 @@ help = [
 ];
 
 banner = [
-  '<span class="index">Ross Henry (RH) Not A Corporation. All knights reserved.</span>',
+  '<span class="index">Ross Henry (RH) Not A Corporation. All rights reserved.</span>',
   "         ___   ____",
   "       /' --;^/ ,-_\\     \\ | /       ",
   "      / / --o\\ o-\\ \\\\   --(_)--   ACSCI goes here",
