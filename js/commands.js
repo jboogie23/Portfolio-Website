@@ -1,6 +1,6 @@
 var youtube = "https://www.youtube.com/";
 var twitter = "https://www.twitter.com/";
-var password = "fkcodes";
+var password = "rossh";
 var linkedin = "https://www.linkedin.com/";
 var instagram = "https://www.instagram.com/";
 var github = "https://github.com/";
